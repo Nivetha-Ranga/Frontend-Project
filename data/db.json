@@ -1,0 +1,316 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "category": "milk",
+      "productName": "Bottled Milk",
+      "description": "500ml bottle pack",
+      "price": "30",
+      "image": "images/dairies/milk.jpg",
+      "nutritionalValue": "rich in calcium. good for bones"
+    },
+    {
+      "id": "2",
+      "category": "milk",
+      "productName": "Milk Bottles",
+      "description": "3 x 500ml bottle pack",
+      "price": "110",
+      "image": "images/dairies/milk_bottles.jpg",
+      "nutritionalValue": "rich in calcium. good for bones"
+    },
+    {
+      "id": "3",
+      "category": "milk",
+      "productName": "Milk Tetra Pack",
+      "description": "1 litre bottle pack",
+      "price": "100",
+      "image": "images/dairies/milk_tetra.jpg",
+      "nutritionalValue": "rich in calcium. good for bones"
+    },
+    {
+      "id": "4",
+      "category": "butter",
+      "productName": "Salted Butter",
+      "description": "100gm packet",
+      "price": "50",
+      "image": "images/dairies/butter.jpg",
+      "nutritionalValue": "rich in sodium and calcium. good for joints"
+    },
+    {
+      "id": "5",
+      "category": "buttermilk",
+      "productName": "Plain Buttermilk",
+      "description": "500ml pack",
+      "price": "20",
+      "image": "images/dairies/buttermilk.jpg",
+      "nutritionalValue": "rich in calcium. low calories. improves metabolism"
+    },
+    {
+      "id": "6",
+      "category": "cheese",
+      "productName": "Cheese Cubes",
+      "description": "pack of 6 cubes",
+      "price": "80",
+      "image": "images/dairies/cheese_cubes.jpg",
+      "nutritionalValue": "rich in protien, high calorific, energy booster"
+    },
+    {
+      "id": "7",
+      "category": "cheese",
+      "productName": "Cheese Slice",
+      "description": "pack of 5 slices",
+      "price": "60",
+      "image": "images/dairies/cheese_sliced.jpg",
+      "nutritionalValue": "rich in protien, high calorific, energy booster"
+    },
+    {
+      "id": "8",
+      "category": "cheese",
+      "productName": "Cheese Spread",
+      "description": "200gm pack",
+      "price": "500",
+      "image": "images/dairies/cheese_spread.jpg",
+      "nutritionalValue": "rich in protien, high calorific, energy booster"
+    },
+    {
+      "id": "9",
+      "category": "milk",
+      "productName": "Cow Milk",
+      "description": "500ml bottle pack",
+      "price": "32",
+      "image": "images/dairies/cow_milk.jpg",
+      "nutritionalValue": "rich in calcium. good for bones, lowers bad cholesterol"
+    },
+    {
+      "id": "10",
+      "category": "milk",
+      "productName": "Cow Milk Tetra Pack",
+      "description": "1 litre tetra pack",
+      "price": "60",
+      "image": "images/dairies/cow_milk_tetra_pack.jpg",
+      "nutritionalValue": "rich in calcium. good for bones, lowers bad cholesterol"
+    },
+    {
+      "id": "11",
+      "category": "curd",
+      "productName": "Plain Curd",
+      "description": "500gm pack",
+      "price": "25",
+      "image": "images/dairies/curd.jpg",
+      "nutritionalValue": "rich in calcium. good for bones. improves metabolism"
+    },
+    {
+      "id": "12",
+      "category": "cream",
+      "productName": "Fresh Cream",
+      "description": "500gm pack",
+      "price": "200",
+      "image": "images/dairies/fresh_cream.jpg",
+      "nutritionalValue": "rich in protein and calcium. good for bones"
+    },
+    {
+      "id": "13",
+      "category": "yogurt",
+      "productName": "Fruit Yogurt",
+      "description": "500gm pack",
+      "price": "60",
+      "image": "images/dairies/fruit_yogurt.jpg",
+      "nutritionalValue": "high fibre, high protein, rich in calcium"
+    },
+    {
+      "id": "14",
+      "category": "ghee",
+      "productName": "Cow Ghee",
+      "description": "250gm pack",
+      "price": "100",
+      "image": "images/dairies/ghee.jpg",
+      "nutritionalValue": "rich in calcium, protein."
+    },
+    {
+      "id": "15",
+      "category": "yogurt",
+      "productName": "Healthy Yogurt",
+      "description": "200gm pack",
+      "price": "500",
+      "image": "images/dairies/healthy_yogurt.jpg",
+      "nutritionalValue": "rich in calcium"
+    },
+    {
+      "id": "16",
+      "category": "butter",
+      "productName": "White Butter",
+      "description": "200gm pack",
+      "price": "100",
+      "image": "images/dairies/homemade_white_butter.jpg",
+      "nutritionalValue": "rich in calcium. good for bones, lowers bad cholesterol"
+    },
+    {
+      "id": "17",
+      "category": "paneer",
+      "productName": "Paneer - Cottage Cheese",
+      "description": "200gm pack",
+      "price": "100",
+      "image": "images/dairies/paneer.jpg",
+      "nutritionalValue": "rich in protein, calcium. increases good cholesterol"
+    },
+    {
+      "id": "18",
+      "category": "butter",
+      "productName": "Peanut Butter",
+      "description": "250gm pack",
+      "price": "200",
+      "image": "images/dairies/peanut_butter.jpg",
+      "nutritionalValue": "rich in protein, good for hair and eyes"
+    },
+    {
+      "id": "19",
+      "category": "yogurt",
+      "productName": "Plain Yogurt - Sweet",
+      "description": "150gm pack",
+      "price": "30",
+      "image": "images/dairies/plain_yogurt.jpg",
+      "nutritionalValue": "rich in calcium, fiber and proteins"
+    }
+  ],
+  "orders": [
+    {
+      "id": "53cf",
+      "firstName": "Nive",
+      "lastName": "R",
+      "email": "nive@mail.com",
+      "phone": "9898989898",
+      "deliveryDate": "2024-08-24",
+      "quantity": "3",
+      "address": "LT",
+      "city": "Chn",
+      "state": "Tamil Nadu",
+      "zip": "600030",
+      "product": {
+        "id": 1,
+        "category": "milk",
+        "productName": "Bottled Milk",
+        "description": "500ml bottle pack",
+        "price": "30",
+        "image": "images/dairies/milk.jpg",
+        "nutritionalValue": "rich in calcium. good for bones"
+      }
+    },
+    {
+      "id": "6f53",
+      "firstName": "jana",
+      "lastName": "R",
+      "email": "Jana@mail.com",
+      "phone": "9191919191",
+      "deliveryDate": "2024-08-26",
+      "quantity": "1",
+      "address": "rd",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "zip": "600030",
+      "product": {
+        "id": "2",
+        "category": "milk",
+        "productName": "Milk Bottles",
+        "description": "3 x 500ml bottle pack",
+        "price": "110",
+        "image": "images/dairies/milk_bottles.jpg",
+        "nutritionalValue": "rich in calcium. good for bones"
+      }
+    },
+    {
+      "id": "33e1",
+      "firstName": "Ram",
+      "lastName": "R",
+      "email": "Ram@gmail.com",
+      "phone": "7878787878",
+      "deliveryDate": "2024-08-26",
+      "quantity": "1",
+      "address": "fr",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "zip": "600030",
+      "product": {
+        "id": "3",
+        "category": "milk",
+        "productName": "Milk Tetra Pack",
+        "description": "1 litre bottle pack",
+        "price": "100",
+        "image": "images/dairies/milk_tetra.jpg",
+        "nutritionalValue": "rich in calcium. good for bones"
+      }
+    },
+    {
+      "id": "8681",
+      "firstName": "Ram",
+      "lastName": "R",
+      "email": "Ram@gmail.com",
+      "phone": "7878787878",
+      "deliveryDate": "",
+      "quantity": "3",
+      "address": "Lakshmi Talkies Road",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "zip": "600030",
+      "product": {
+        "id": "3",
+        "category": "milk",
+        "productName": "Milk Tetra Pack",
+        "description": "1 litre bottle pack",
+        "price": "100",
+        "image": "images/dairies/milk_tetra.jpg",
+        "nutritionalValue": "rich in calcium. good for bones"
+      }
+    },
+    {
+      "id": "8fc0",
+      "firstName": "Ram",
+      "lastName": "R",
+      "email": "Ram@gmail.com",
+      "phone": "9176078822",
+      "quantity": "3",
+      "address": "Lakshmi Talkies Road",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "zip": "600030",
+      "product": {
+        "id": "3",
+        "category": "milk",
+        "productName": "Milk Tetra Pack",
+        "description": "1 litre bottle pack",
+        "price": "100",
+        "image": "images/dairies/milk_tetra.jpg",
+        "nutritionalValue": "rich in calcium. good for bones"
+      }
+    }
+  ],
+  "SignUp": [
+    {
+      "id": "62e9",
+      "userName": "Nive",
+      "email": "nive@mail.com",
+      "password": "12345",
+      "confirmPassword": "12345"
+    },
+    {
+      "id": "bf64",
+      "userName": "Jan",
+      "email": "Jan@mail",
+      "password": "1234",
+      "confirmPassword": "1234"
+    },
+    {
+      "id": "fcdf",
+      "userName": "Jana",
+      "email": "Jana@mail",
+      "password": "1234",
+      "confirmPassword": "1234"
+    },
+    {
+      "id": "2b5a",
+      "userName": "Ram",
+      "email": "Ram@gmail.com",
+      "password": "1234",
+      "confirmPassword": "1234"
+    }
+  ]
+}
